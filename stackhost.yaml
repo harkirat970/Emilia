@@ -11,7 +11,7 @@ commands:
   package:
     - "ffmpeg"
   start:
-    - "python3 -m AlexaMusic"
+    - "python3 -m Emilia"
 
 env:
   - "ENVIRONMENT=production"
