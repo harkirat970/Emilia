@@ -3,7 +3,7 @@ user:
   github: harkirat970
 
 language: "python"
-python_version: "3.12.9"
+python_version: "3.11.9"
 
 commands:
   build:
